@@ -149,8 +149,10 @@ Write the SQL query that answers the question, below that comment.
 Once one person writes half of the queries, switch off.
 Example question and answer
 
+```
 -- 0. Get all the users
 SELECT * FROM customers;
+```
 
 ## Tasks
 
